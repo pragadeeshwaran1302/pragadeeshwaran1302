@@ -1,72 +1,71 @@
-# 👋 Hi, I'm Pragadeeshwaran D
+# 🚀 Python Backend & Data Analysis Projects
 
-🚀 Python Developer | SQL | Excel | Backend Enthusiast  
-
-![Profile Views](https://komarev.com/ghpvc/?username=PragadeeshwaranD&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/PragadeeshwaranD?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/PragadeeshwaranD?label=Stars)
+Welcome to my GitHub repository!  
+This repository contains **backend web development** and **data analysis** projects built using Python and related technologies.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧩 Project 1: User Management System  
+**(Flask + SQLAlchemy + MySQL)**
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+A backend web application that manages users with secure authentication and full CRUD functionality.
 
----
+### 🔹 Features
+- Developed backend web application using **Flask**
+- Implemented **user authentication and authorization**
+- Built **CRUD operations** using SQLAlchemy ORM
+- Designed and managed **relational database schemas**
+- Handled **session management** and form validations
+- Secure password storage using hashing
 
-## 📊 GitHub Stats
+### 🔹 Key Functionalities
+- User Registration
+- Login & Logout
+- Create, Read, Update, Delete users
+- Session-based access control
 
-![Pragadeeshwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PragadeeshwaranD&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PragadeeshwaranD&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PragadeeshwaranD&theme=default)
-
----
-
-## 📂 Projects
-
-### 🔹 User Management System (Python + Flask + SQL)
-- User authentication and authorization
-- CRUD operations using SQLAlchemy
-- Session handling and form validation
-
-### 🔹 Data Cleaning & Analysis (Python + Excel)
-- Data preprocessing and cleaning
-- Excel formulas, pivot tables, and reports
-- Structured datasets for insights
-
-### 🔹 REST API Mini Project
-- Flask-based REST APIs
-- JSON request/response handling
-- API testing with Postman
+### 🔹 Tech Stack
+- **Language:** Python  
+- **Framework:** Flask  
+- **Database:** MySQL  
+- **ORM:** SQLAlchemy  
 
 ---
 
-## 📈 Currently Learning
-- Advanced Python
-- SQL query optimization
-- Backend architecture
-- REST API best practices
+## 📊 Project 2: Data Analysis & Cleaning Projects  
+
+A collection of data preprocessing and analysis tasks performed on raw datasets.
+
+### 🔹 Features
+- Cleaned raw datasets using **Pandas**
+- Handled **missing values**, duplicates, and inconsistent data
+- Performed **Exploratory Data Analysis (EDA)** for insights
+- Prepared datasets for further analysis or modeling
+
+### 🔹 Tasks Performed
+- Data loading and inspection
+- Null value handling
+- Duplicate removal
+- Data type correction
+- Basic statistical analysis
+
+### 🔹 Tech Stack
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy  
+- **Tools:** Excel  
 
 ---
 
-## 🎯 Career Objective
-To secure a **Python Developer / Backend Developer** role where I can contribute to scalable applications and grow professionally.
+## 🛠 Skills Demonstrated
+- Backend Development with Flask
+- RESTful design principles
+- Database design and ORM usage
+- Data cleaning and preprocessing
+- Problem-solving with Python
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: pragadeeshwaran13022002@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/pragadeeshwaran-dev](https://www.linkedin.com/in/pragadeeshwaran-dev)  
-- 🧑‍💻 GitHub: [github.com/PragadeeshwaranD](https://github.com/PragadeeshwaranD)
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+## 📌 How to Run (User Management System)
+```bash
+pip install -r requirements.txt
+python app.py
