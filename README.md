@@ -69,26 +69,7 @@ Currently expanding my expertise in **Generative AI, Machine Learning, and Large
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PragadeeshwaranD&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PragadeeshwaranD&layout=compact)
-
----
-
 ## 🎯 Currently Learning
 - Generative AI models
 - LLMs & Transformers
 - LangChain & RAG systems
-- AI system design
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **pragadeeshwaran13022002@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/pragadeeshwaran-dev](https://www.linkedin.com/in/pragadeeshwaran-dev)
-- 🐙 GitHub: [github.com/PragadeeshwaranD](https://github.com/PragadeeshwaranD)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
